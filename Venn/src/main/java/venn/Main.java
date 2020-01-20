@@ -7,8 +7,6 @@ public class Main {
 <<<<<<< HEAD
 		System.out.println("Hello Word");
 =======
-		System.out.println("Hello Wort");
->>>>>>> refs/heads/Lab2test
 
 	}
 
