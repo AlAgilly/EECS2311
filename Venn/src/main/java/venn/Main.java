@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("Hello Worhhhddd");
 		System.out.println("Hello Worhhhddd");
 
-		System.out.println("Hello Worhhhddd");
+		System.out.println("Hello Worhhh");
 		
 >>>>>>> branch 'master' of https://github.com/AlAgilly/EECS2311
 	
