@@ -2,6 +2,7 @@ package venn;
 
 public class Main {
 
+<<<<<<< HEAD
 	public static void main(String[] args) {
 		System.out.println("Hello Word!");
 <<<<<<< HEAD
@@ -20,6 +21,10 @@ public class Main {
 >>>>>>> branch 'master' of https://github.com/AlAgilly/EECS2311
 	
 	
+=======
+	public static void main(String[] args) {
+		System.out.println("Hello");
+>>>>>>> refs/remotes/origin/lynn
 	}
 
 	
