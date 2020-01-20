@@ -14,7 +14,7 @@ public class Main {
 		
 		
 		System.out.println("Hello Worhhhddd");
-		System.out.println("Hello Worhhhddd");
+		System.out.println("Hello ");
 
 		System.out.println("Hello Worhhhddd");
 		
