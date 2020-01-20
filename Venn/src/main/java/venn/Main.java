@@ -16,16 +16,10 @@ public class Main {
 		System.out.println("Hello Worhhhddd");
 		System.out.println("Hello Worhhhddd");
 
-		System.out.println("Hello Worhhh");
+		System.out.println("Hello Worhhhddd");
 		
 >>>>>>> branch 'master' of https://github.com/AlAgilly/EECS2311
 	
-	
-=======
-	public static void main(String[] args) {
-		System.out.println("Hello");
->>>>>>> refs/remotes/origin/lynn
-	}
 
 	
 }
