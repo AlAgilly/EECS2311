@@ -10,7 +10,14 @@ public class Main {
 		System.out.println("Hello Word");
 		System.out.println("Hello Worddd!!!!!12345345!!!");
 		System.out.println("Hello Worhhhddd");
+		
+		
+		System.out.println("Hello Worhhhddd");
+		System.out.println("Hello Worhhhddd");
+
+		
 >>>>>>> branch 'master' of https://github.com/AlAgilly/EECS2311
 	}
 
+	
 }
